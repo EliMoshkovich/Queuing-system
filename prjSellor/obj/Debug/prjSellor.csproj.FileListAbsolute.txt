@@ -1,0 +1,255 @@
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\prjSellor.dll.config
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\prjSellor.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\prjSellor.pdb
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\obj\Debug\prjSellor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\obj\Debug\prjSellor.dll
+c:\users\user\documents\visual studio 2015\Projects\prjSellor\prjSellor\obj\Debug\prjSellor.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\prjSellor\prjSellor\bin\System.Web.Http.WebHost.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\ApplicationInsights.config
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\csc.exe
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\vbc.exe
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\prjSellor.dll.config
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\prjSellor.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\prjSellor.pdb
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Antlr3.Runtime.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\DHTMLX.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\EntityFramework.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\EntityFramework.SqlServer.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.Web.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Newtonsoft.Json.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Net.Http.Formatting.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Helpers.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Http.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Http.WebHost.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Mvc.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Optimization.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Razor.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.WebPages.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\WebGrease.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\DHTMLX.pdb
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\DHTMLX.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\EntityFramework.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\EntityFramework.SqlServer.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.Web.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Net.Http.Formatting.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Http.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Http.WebHost.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Helpers.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Mvc.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Optimization.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.Razor.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.WebPages.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Antlr3.Runtime.pdb
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\bin\Newtonsoft.Json.xml
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\obj\Debug\prjSellor.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\obj\Debug\prjSellor.dll
+C:\Users\Ariel\Desktop\prjSellor\prjSellor\obj\Debug\prjSellor.pdb
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\ApplicationInsights.config
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\csc.exe
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\vbc.exe
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\prjSellor.dll.config
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\prjSellor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\prjSellor.pdb
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Antlr3.Runtime.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\EntityFramework.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\EntityFramework.SqlServer.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.Web.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Newtonsoft.Json.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Net.Http.Formatting.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Helpers.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Http.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Http.WebHost.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Mvc.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Optimization.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Razor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.WebPages.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\WebGrease.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\EntityFramework.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\EntityFramework.SqlServer.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.Web.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Net.Http.Formatting.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Http.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Http.WebHost.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Helpers.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Mvc.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Optimization.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.Razor.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.WebPages.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Antlr3.Runtime.pdb
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\bin\Newtonsoft.Json.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\obj\Debug\prjSellor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\obj\Debug\prjSellor.pdb
+C:\Users\Eli\Desktop\פרויקט תקשורת\308116482_203290903\prjSellor\obj\Debug\prjSellor.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\ApplicationInsights.config
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\csc.exe
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\vbc.exe
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\prjSellor.dll.config
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\prjSellor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\prjSellor.pdb
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Antlr3.Runtime.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\EntityFramework.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\EntityFramework.SqlServer.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.Web.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Newtonsoft.Json.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Net.Http.Formatting.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Helpers.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Http.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Http.WebHost.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Mvc.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Optimization.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Razor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.WebPages.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\WebGrease.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\EntityFramework.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\EntityFramework.SqlServer.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.Web.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Net.Http.Formatting.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Http.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Http.WebHost.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Helpers.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Mvc.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Optimization.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.Razor.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.WebPages.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Antlr3.Runtime.pdb
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\bin\Newtonsoft.Json.xml
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\obj\Debug\prjSellor.dll
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\obj\Debug\prjSellor.pdb
+C:\Users\Eli\Desktop\פרויקט תקשורת\308240019_201559994\prjSellor\obj\Debug\prjSellor.csprojResolveAssemblyReference.cache
